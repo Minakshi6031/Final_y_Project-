@@ -1,2 +1,2 @@
 # Final_y_Project-
-Final year project  using React , Nodejs , MySql
+Final year project  using React , Nodejs and MongoDb
