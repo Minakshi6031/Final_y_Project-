@@ -44,9 +44,4 @@ Required Tools
      .Initialize npm: npm init
      .Install Express.js: npm install express
      .Create a new file server.js
-    ● Configure Server
-     Install required packages
-     npm install cors.
-    npm install body-parser.
-   npm install mongoose (for MongoDB).
    
